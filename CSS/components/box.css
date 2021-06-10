@@ -4,6 +4,7 @@
     text-align: center;
     padding: 42px 44px;
     display: inline-block;
+    border-radius: 5px;
 }
 
 #box h1 {
