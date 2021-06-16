@@ -8,3 +8,8 @@
 .section .main-title {
     margin-bottom: 60px;
 }
+
+.section.-bgblack {
+    background-color: #000;
+    border-bottom: 5px solid #000;
+}
