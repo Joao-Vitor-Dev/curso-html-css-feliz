@@ -17,7 +17,7 @@
 }
 }
 
-.btn {
+.a.-btn {
     display: inline-block;
     background-color: #F34213;
     height: 60px;
@@ -29,7 +29,7 @@
     margin-right: 0px;
 }
   
-.btn:hover {
+.a.-btn:hover {
     color: #fff;
     animation: bounce 0.3s;
   }

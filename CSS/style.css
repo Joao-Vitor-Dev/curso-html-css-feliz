@@ -47,7 +47,7 @@ nav{
     text-align: right;
 }
 
-a {
+.a {
     display: inline-flex;
     align-items: center;
     color: #fff;
@@ -60,11 +60,11 @@ a {
     transition: color 0.3s ;
 }
 
-a:hover {
+.a:hover {
     color: #759AAB;
 }
 
-a::before{
+.a::before{
     content: "";
     background-color: #F34213;
     height: 10px;
