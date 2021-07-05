@@ -13,3 +13,7 @@
     background-color: #000;
     border-bottom: 5px solid #000;
 }
+
+.section.bdBlack {
+    border-color: #000;
+}
