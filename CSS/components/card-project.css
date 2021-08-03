@@ -11,3 +11,7 @@
 .card-project.-blue {
     background-color: #4c5b84;
 }
+
+.a::before {
+    display: none;
+}
